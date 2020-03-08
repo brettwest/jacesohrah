@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iichoweix.fortisauris.com/sitemap.xml
